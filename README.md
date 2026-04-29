@@ -15,3 +15,5 @@ A VPC is critical because it allows you to:
 ---
 ## 🏗️ Architecture Overview
 ![Architecture Diagram](architecture/architecture.png)
+
+---
