@@ -17,3 +17,16 @@ A VPC is critical because it allows you to:
 ![Architecture Diagram](architecture/architecture.png)
 
 ---
+## 🧱 Step 1: Create a VPC
+Go to the **AWS Management Console**
+Search for **VPC** and open the dashboard
+Click **Create VPC**
+Configure:
+- Name: *RDS-VPC*
+- IPv4 CIDR: *10.0.0.0/16*
+- IPv6: *None*
+- Tenancy: *Default*
+
+Click **Create VPC**
+
+✅ Your network foundation is now ready.
